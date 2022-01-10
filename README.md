@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Shucach
-- 👀 I’m interested in PHP, Laravel
 
 <!---
 Shucach/Shucach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
